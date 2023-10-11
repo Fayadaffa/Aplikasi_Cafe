@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Aplikasi_Cafe": {
+      "commandName": "Project",
+      "commandLineArgs": "1"
+    }
+  }
+}

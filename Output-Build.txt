@@ -1,0 +1,6 @@
+﻿Build started...
+1>------ Build started: Project: Aplikasi_Cafe, Configuration: Debug Any CPU ------
+1>Aplikasi_Cafe -> C:\Users\ASUS\source\repos\Aplikasi_Cafe\Aplikasi_Cafe\bin\Debug\netcoreapp3.1\Aplikasi_Cafe.dll
+2>------ Build started: Project: Aplikasi_CafeTests, Configuration: Debug Any CPU ------
+2>Aplikasi_CafeTests -> C:\Users\ASUS\source\repos\Aplikasi_Cafe\Aplikasi_CafeTests\bin\Debug\.netcoreapp,version=v3.1\Aplikasi_CafeTests.dll
+========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
